@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/hash-engineering-cover.jpeg" alt="Hash Engineering" width="100%" />
+</p>
+
 # Hash Engineering
 
 Hash Engineering is an applied software engineering studio based in Indonesia. We build practical software systems and create structured technical learning opportunities for emerging engineers.
