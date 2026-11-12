@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hash-engineering-cover.jpeg" alt="Hash Engineering" width="100%" />
+  <img src="https://raw.githubusercontent.com/Hash-Engineering/.github/main/profile/assets/hash-banner.png" alt="Hash — Better questions. Better systems." width="100%" />
 </p>
 
 <h1 align="center">Hash Engineering</h1>
